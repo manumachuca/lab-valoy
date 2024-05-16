@@ -1,0 +1,93 @@
+
+.bg-tery{
+    background-color: #131313;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+  }
+  
+  main {
+    flex: 1;
+  }
+
+  
+  footer {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 1rem;
+  }
+
+.navbar-nav .nav-link {
+    font-size: 20px; 
+  }
+
+ .containerIndex {
+    margin-top: 20vh;
+} 
+
+.lineaVertical {
+    border-right: 1px solid white ;
+}
+
+.pIndex {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.textoIndex {
+    margin-top: 75px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: 300px;  
+}
+
+.nuestrasGuitarras{
+    text-align: center;
+    background-color: rgba(red, green, blue, alpha);
+    color: aliceblue;
+}
+
+.productos{
+   justify-content: space-evenly;
+}
+
+.centrarArt{
+    margin: auto;
+}
+
+.precio{
+    color: #008000; 
+    font-size: x-large;
+}
+
+.carousel-image {
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+  }
+
+.img-redes {
+    width: 200px;
+    height: 200px;  
+}
+
+.btn {
+    margin-top: 10px; 
+    margin-bottom: 10px;
+  }
+
+
+
+
+
+
+
